@@ -1,0 +1,23 @@
+
+
+p img {
+    width: 168px;
+}
+
+p img hover {
+    width: 238px;
+    border: 38px solid red;
+    box-radius: 4px 5px 5px pink;
+    border-radius: 50%;
+    background-color: rgb(132, 0, 255);
+}
+
+.different {
+    border: 3px solid lightsalmon;
+    width: 40%;
+    box-shadow: 3px 4px 4px rgb(208, 255, 0);
+    border-radius: 26px;
+    margin: 23px;
+    padding: 35px;
+    background-color:orange;
+}
