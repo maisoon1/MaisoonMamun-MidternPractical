@@ -48,6 +48,9 @@ img, svg {
     padding: 10px;
     background-color: #f9f9f9;
 }
+img svg:hover {
+    transform: scale(0.7);
+}
 footer {
     background-color: #333;
     color: #fff;
