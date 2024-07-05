@@ -1,6 +1,9 @@
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: "Wittgenstein", serif;
+    font-optical-sizing: auto;
+  font-weight: 200px;
+  font-style: normal;
 }
 header {
     background-color: #333;
